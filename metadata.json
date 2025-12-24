@@ -1,0 +1,7 @@
+{
+  "name": "Trigger AI PhotoEditor Pro",
+  "description": "A next-generation, AI-powered photo editor for creating stunning images from text prompts. Experience the future of creative image generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
